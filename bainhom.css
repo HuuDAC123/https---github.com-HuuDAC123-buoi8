@@ -1,0 +1,70 @@
+.list{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.box{
+    width: 360px;
+    height: 800px;
+    top: -318px;
+    left: -177px;
+    border: 2px solid #808080;
+    border-radius: 5px;
+}
+.text{
+    color: rgba(0, 0, 0, 0.80);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 100px;
+}
+.text1{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-left: 140px;
+
+}
+.item-box{
+    width: 312px;
+    height: 48px;
+    border: 2px solid #808080;
+    border-radius: 7px;
+    margin-top: 30px;
+    margin-left: 24px;
+}
+.item-box2{
+    width: 312px;
+    height: 48px;
+    border: 2px solid #808080;
+    border-radius: 7px;
+    margin-top: 30px;
+    margin-left: 24px;
+    background-color: #0E64D2;
+}
+.Forgot-Password{
+    color: #2F89FC;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 20px;
+    margin-left: 135px;
+}
+.item-box2{
+    width: 312px;
+    height: 48px;
+    border: 2px solid #808080;
+    border-radius: 7px;
+    margin-top: 30px;
+    margin-left: 24px;
+}
+.img{
+    margin-left: 300px;
+    margin-top: -37px;
+}
